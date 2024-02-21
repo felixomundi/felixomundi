@@ -14,7 +14,7 @@ My name is Felix Omundi Nyagaka I'm a full Stack developer. I help turn user ide
 - Laravel
 
 # Database Technologies
--MYSQL(prisma or sequelize orm)
+- MYSQL(prisma or sequelize orm)
 - MongoDB
 - PostGres
 - SQLITE
