@@ -12,6 +12,8 @@ My name is Felix Omundi Nyagaka I'm a full Stack developer. I help turn user ide
 - Express
 - Django
 - Laravel
+- Asp.Net/C#
+- Java/Spring boot 
 
 # Database Technologies
 - MYSQL(prisma or sequelize orm)
